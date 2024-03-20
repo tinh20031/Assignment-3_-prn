@@ -1,0 +1,557 @@
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\appsettings.Development.json
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\appsettings.json
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\eStore.exe
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\eStore.deps.json
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\eStore.runtimeconfig.json
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\eStore.runtimeconfig.dev.json
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\eStore.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\eStore.pdb
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\eStore.Views.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\eStore.Views.pdb
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\ClosedXML.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\DocumentFormat.OpenXml.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\ExcelNumberFormat.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\Humanizer.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\itextsharp.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\System.Composition.Convention.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\System.Composition.Hosting.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\System.Composition.Runtime.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\System.Composition.TypedParts.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\System.IO.Packaging.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\BusinessObject.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\DataAccess.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\BusinessObject.pdb
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\bin\Debug\net5.0\DataAccess.pdb
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\eStore.csproj.AssemblyReference.cache
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\eStore.GeneratedMSBuildEditorConfig.editorconfig
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\eStore.AssemblyInfoInputs.cache
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\eStore.AssemblyInfo.cs
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\eStore.csproj.CoreCompileInputs.cache
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\eStore.MvcApplicationPartsAssemblyInfo.cache
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\eStore.RazorAssemblyInfo.cache
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\eStore.RazorAssemblyInfo.cs
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\scopedcss\bundle\eStore.styles.css
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\staticwebassets\eStore.StaticWebAssets.Manifest.cache
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\staticwebassets\eStore.StaticWebAssets.Pack.cache
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\staticwebassets\msbuild.eStore.Microsoft.AspNetCore.StaticWebAssets.props
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\staticwebassets\msbuild.build.eStore.props
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.eStore.props
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.eStore.props
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\eStore.TagHelpers.input.cache
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\eStore.TagHelpers.output.cache
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\eStore.RazorCoreGenerate.cache
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\Razor\Views\Cart\CheckOut.cshtml.g.cs
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\Razor\Views\Cart\Index.cshtml.g.cs
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\Razor\Views\Login\UserAccessDenied.cshtml.g.cs
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\Razor\Views\Member\Create.cshtml.g.cs
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\Razor\Views\Member\Delete.cshtml.g.cs
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\Razor\Views\Member\Details.cshtml.g.cs
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\Razor\Views\Member\Edit.cshtml.g.cs
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\Razor\Views\Member\Index.cshtml.g.cs
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\Razor\Views\Member\Profile.cshtml.g.cs
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\Razor\Views\Order\Delete.cshtml.g.cs
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\Razor\Views\Order\Details.cshtml.g.cs
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\Razor\Views\Order\Index.cshtml.g.cs
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\Razor\Views\Product\Create.cshtml.g.cs
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\Razor\Views\Product\Delete.cshtml.g.cs
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\Razor\Views\Product\Details.cshtml.g.cs
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\Razor\Views\Product\Edit.cshtml.g.cs
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\Razor\Views\Shared\Alert.cshtml.g.cs
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\eStore.RazorTargetAssemblyInfo.cache
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\eStore.RazorTargetAssemblyInfo.cs
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\eStore.Views.pdb
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\eStore.csproj.CopyComplete
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\eStore.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\refint\eStore.dll
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\eStore.pdb
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\eStore.genruntimeconfig.cache
+F:\FPTU\Sem 5\PRN211\Source Code\PRN_Assignment03_eStore-master\eStore\obj\Debug\net5.0\ref\eStore.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\appsettings.json
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\eStore.exe
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\eStore.deps.json
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\eStore.runtimeconfig.json
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\eStore.runtimeconfig.dev.json
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\eStore.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\eStore.pdb
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\eStore.Views.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\eStore.Views.pdb
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\ClosedXML.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\DocumentFormat.OpenXml.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\ExcelNumberFormat.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\Humanizer.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\System.IO.Packaging.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\BusinessObject.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\DataAccess.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\BusinessObject.pdb
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\eStore.csproj.AssemblyReference.cache
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\eStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\eStore.AssemblyInfoInputs.cache
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\eStore.AssemblyInfo.cs
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\eStore.csproj.CoreCompileInputs.cache
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\eStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\eStore.RazorAssemblyInfo.cache
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\eStore.RazorAssemblyInfo.cs
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\scopedcss\bundle\eStore.styles.css
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\staticwebassets\eStore.StaticWebAssets.Manifest.cache
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\staticwebassets\eStore.StaticWebAssets.Pack.cache
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\staticwebassets\msbuild.eStore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\staticwebassets\msbuild.build.eStore.props
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.eStore.props
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.eStore.props
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\eStore.TagHelpers.input.cache
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\eStore.TagHelpers.output.cache
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\eStore.RazorCoreGenerate.cache
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\Cart\CheckOut.cshtml.g.cs
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\Cart\Index.cshtml.g.cs
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\Login\UserAccessDenied.cshtml.g.cs
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\Member\Create.cshtml.g.cs
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\Member\Delete.cshtml.g.cs
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\Member\Details.cshtml.g.cs
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\Member\Edit.cshtml.g.cs
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\Member\Index.cshtml.g.cs
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\Member\Profile.cshtml.g.cs
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\Order\Delete.cshtml.g.cs
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\Order\Details.cshtml.g.cs
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\Order\Index.cshtml.g.cs
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\Product\Delete.cshtml.g.cs
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\Product\Details.cshtml.g.cs
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\Product\Edit.cshtml.g.cs
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\Shared\Alert.cshtml.g.cs
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\eStore.RazorTargetAssemblyInfo.cache
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\eStore.RazorTargetAssemblyInfo.cs
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\eStore.Views.pdb
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\eStore.csproj.CopyComplete
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\eStore.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\refint\eStore.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\eStore.pdb
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\eStore.genruntimeconfig.cache
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\obj\Debug\net5.0\ref\eStore.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.ApplicationInsights.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.ApplicationInsights.AspNetCore.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.AI.DependencyCollector.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.AI.EventCounterCollector.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.AI.WindowsServer.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.Extensions.Logging.ApplicationInsights.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\trant\OneDrive\Desktop\3\Asm3_Solution\eStore\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\appsettings.Development.json
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\appsettings.json
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\eStore.exe
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\eStore.deps.json
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\eStore.runtimeconfig.json
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\eStore.runtimeconfig.dev.json
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\eStore.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\eStore.pdb
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\eStore.Views.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\eStore.Views.pdb
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\ClosedXML.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\DocumentFormat.OpenXml.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\ExcelNumberFormat.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\Humanizer.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.ApplicationInsights.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.ApplicationInsights.AspNetCore.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.AI.DependencyCollector.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.AI.EventCounterCollector.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.AI.PerfCounterCollector.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.AI.WindowsServer.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.AI.ServerTelemetryChannel.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.Extensions.Logging.ApplicationInsights.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\System.IO.Packaging.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\BusinessObject.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\DataAccess.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\BusinessObject.pdb
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\bin\Debug\net5.0\DataAccess.pdb
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\eStore.csproj.AssemblyReference.cache
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\eStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\eStore.AssemblyInfoInputs.cache
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\eStore.AssemblyInfo.cs
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\eStore.csproj.CoreCompileInputs.cache
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\eStore.MvcApplicationPartsAssemblyInfo.cache
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\eStore.RazorAssemblyInfo.cache
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\eStore.RazorAssemblyInfo.cs
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\eStore.TagHelpers.input.cache
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\eStore.TagHelpers.output.cache
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\eStore.RazorCoreGenerate.cache
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\Cart\CheckOut.cshtml.g.cs
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\Cart\Index.cshtml.g.cs
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\Login\UserAccessDenied.cshtml.g.cs
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\Member\Create.cshtml.g.cs
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\Member\Delete.cshtml.g.cs
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\Member\Details.cshtml.g.cs
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\Member\Edit.cshtml.g.cs
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\Member\Index.cshtml.g.cs
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\Member\Profile.cshtml.g.cs
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\Order\Delete.cshtml.g.cs
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\Order\Details.cshtml.g.cs
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\Order\Index.cshtml.g.cs
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\Product\Create.cshtml.g.cs
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\Product\Delete.cshtml.g.cs
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\Product\Details.cshtml.g.cs
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\Product\Edit.cshtml.g.cs
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\Shared\Alert.cshtml.g.cs
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\eStore.RazorTargetAssemblyInfo.cache
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\eStore.RazorTargetAssemblyInfo.cs
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\eStore.Views.pdb
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\scopedcss\bundle\eStore.styles.css
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\staticwebassets\eStore.StaticWebAssets.Manifest.cache
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\staticwebassets\eStore.StaticWebAssets.Pack.cache
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\staticwebassets\msbuild.eStore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\staticwebassets\msbuild.build.eStore.props
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.eStore.props
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.eStore.props
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\eStore.csproj.Up2Date
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\eStore.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\refint\eStore.dll
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\eStore.pdb
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\eStore.genruntimeconfig.cache
+D:\source_code\SC_PRN211\prn211-asm-main\Asm3_Solution\eStore\obj\Debug\net5.0\ref\eStore.dll
